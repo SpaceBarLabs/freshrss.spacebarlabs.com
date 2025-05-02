@@ -1,2 +1,3 @@
-# freshrss.spacebarlabs.com
-https://freshrss.spacebarlabs.com
+# CloudBreak.app
+
+https://cloudbreak.app
