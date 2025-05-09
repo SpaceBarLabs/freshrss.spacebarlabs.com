@@ -1,3 +1,5 @@
-# CloudBreak.app
+# CloudBreak
 
-https://cloudbreak.app
+This service is now called CloudBreak
+
+[https://cloudbreak.app/freshrss/](https://cloudbreak.app/freshrss/)
